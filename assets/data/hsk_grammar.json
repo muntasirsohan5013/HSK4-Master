@@ -1,0 +1,26 @@
+[
+  {
+    "title": "虽然…但是…",
+    "explanationChinese": "表示转折关系。",
+    "explanationEnglish": "Used to express contrast.",
+    "example": "虽然下雨了，但是我们继续出发。",
+    "fillQuestion": "虽然下雨了，____我们继续出发。",
+    "fillAnswer": "但是"
+  },
+  {
+    "title": "因为…所以…",
+    "explanationChinese": "表示因果关系。",
+    "explanationEnglish": "Used to express cause and effect.",
+    "example": "因为天气很好，所以我们去公园。",
+    "fillQuestion": "因为天气很好，____我们去公园。",
+    "fillAnswer": "所以"
+  },
+  {
+    "title": "多+大",
+    "explanationChinese": "",
+    "explanationEnglish": "Used to express cause and effect.",
+    "example": "你多大了？",
+    "fillQuestion": "你儿子今年____了？",
+    "fillAnswer": "多大"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "chinese": "你好",
+    "pinyin": "nǐ hǎo",
+    "english": "Hello",
+    "exampleChinese": "你好，我是学生。",
+    "examplePinyin": "nǐ hǎo, wǒ shì xuéshēng.",
+    "exampleEnglish": "Hello, I am a student."
+  },
+  {
+    "chinese": "谢谢",
+    "pinyin": "xièxie",
+    "english": "Thank you",
+    "exampleChinese": "谢谢你的帮助。",
+    "examplePinyin": "xièxie nǐ de bāngzhù.",
+    "exampleEnglish": "Thank you for your help."
+  },
+  {
+    "chinese": "不谢",
+    "pinyin": "bùxie",
+    "english": "Sure",
+    "exampleChinese": "A: 谢谢你 B: 不谢",
+    "examplePinyin": "A: xièxie nǐ B: bùxie.",
+    "exampleEnglish": "A: Thank you B: Sure."
+  },
+  {
+    "chinese": "什么",
+    "pinyin": "shénme",
+    "english": "What",
+    "exampleChinese": "这是什么书？",
+    "examplePinyin": "zhè shì shénme shū?",
+    "exampleEnglish": "What book is this?"
+  }
+]
